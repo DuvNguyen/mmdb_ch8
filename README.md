@@ -1,1 +1,1 @@
-run "python main.py"
+please read theory.md
